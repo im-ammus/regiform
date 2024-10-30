@@ -1,0 +1,36 @@
+*{
+  font-family: "Afacad Flux", serif;
+  color: aliceblue;
+  }
+  #bg{
+    background-color: rgb(5, 70, 111);
+    background-size: cover;
+    width: auto;
+  }
+  #box{
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.4), -5px -5px 10px rgb(82, 211, 194);
+  }
+  #btn1{
+    background-color: rgb(167, 110, 220);
+    width: 200px;
+    border-radius: 2%;
+  }
+  #btn2{
+    background-color: rgb(167, 110, 220);
+    width: 200px;
+    border-radius: 2%;
+    color: rgb(23, 21, 21);
+  }
+  .col{
+    color: rgb(116, 22, 22);
+  }
+  #co{
+    color: black;
+  }
+  .bg-light {
+    background-color: rgb(5, 70, 111);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
